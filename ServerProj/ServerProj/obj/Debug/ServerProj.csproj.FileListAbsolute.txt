@@ -1,0 +1,27 @@
+C:\Users\s011459k\OneDrive - Staffordshire University\ServerProj\ServerProj\obj\Debug\ServerProj.csprojAssemblyReference.cache
+C:\Users\s011459k\OneDrive - Staffordshire University\ServerProj\ServerProj\obj\Debug\ServerProj.csproj.CoreCompileInputs.cache
+C:\Users\s011459k\OneDrive - Staffordshire University\ServerProj\ServerProj\bin\Debug\ServerProj.exe.config
+C:\Users\s011459k\OneDrive - Staffordshire University\ServerProj\ServerProj\bin\Debug\ServerProj.exe
+C:\Users\s011459k\OneDrive - Staffordshire University\ServerProj\ServerProj\bin\Debug\ServerProj.pdb
+C:\Users\s011459k\OneDrive - Staffordshire University\ServerProj\ServerProj\obj\Debug\ServerProj.exe
+C:\Users\s011459k\OneDrive - Staffordshire University\ServerProj\ServerProj\obj\Debug\ServerProj.pdb
+C:\Users\s011459k\OneDrive - Staffordshire University\CNA Semester 1\Week 6\ServerProj\ServerProj\bin\Debug\ServerProj.exe.config
+C:\Users\s011459k\OneDrive - Staffordshire University\CNA Semester 1\Week 6\ServerProj\ServerProj\bin\Debug\ServerProj.exe
+C:\Users\s011459k\OneDrive - Staffordshire University\CNA Semester 1\Week 6\ServerProj\ServerProj\bin\Debug\ServerProj.pdb
+C:\Users\s011459k\OneDrive - Staffordshire University\CNA Semester 1\Week 6\ServerProj\ServerProj\obj\Debug\ServerProj.csproj.CoreCompileInputs.cache
+C:\Users\s011459k\OneDrive - Staffordshire University\CNA Semester 1\Week 6\ServerProj\ServerProj\obj\Debug\ServerProj.exe
+C:\Users\s011459k\OneDrive - Staffordshire University\CNA Semester 1\Week 6\ServerProj\ServerProj\obj\Debug\ServerProj.pdb
+C:\Users\s011459k\OneDrive - Staffordshire University\CNA Semester 1\Week 6\ServerProj\ServerProj\obj\Debug\ServerProj.csprojAssemblyReference.cache
+C:\Users\s011459k\OneDrive - Staffordshire University\CNA Semester 1\Week 6\ServerProj\ServerProj\bin\Debug\Packets.dll
+C:\Users\s011459k\OneDrive - Staffordshire University\CNA Semester 1\Week 6\ServerProj\ServerProj\bin\Debug\Packets.pdb
+C:\Users\s011459k\OneDrive - Staffordshire University\CNA Semester 1\Week 6\ServerProj\ServerProj\obj\Debug\ServerProj.csproj.CopyComplete
+C:\Users\decla\OneDrive - Staffordshire University\CNA Semester 1\Week 6\ServerProj\ServerProj\bin\Debug\ServerProj.exe.config
+C:\Users\decla\OneDrive - Staffordshire University\CNA Semester 1\Week 6\ServerProj\ServerProj\bin\Debug\ServerProj.exe
+C:\Users\decla\OneDrive - Staffordshire University\CNA Semester 1\Week 6\ServerProj\ServerProj\bin\Debug\ServerProj.pdb
+C:\Users\decla\OneDrive - Staffordshire University\CNA Semester 1\Week 6\ServerProj\ServerProj\bin\Debug\Packets.dll
+C:\Users\decla\OneDrive - Staffordshire University\CNA Semester 1\Week 6\ServerProj\ServerProj\bin\Debug\Packets.pdb
+C:\Users\decla\OneDrive - Staffordshire University\CNA Semester 1\Week 6\ServerProj\ServerProj\obj\Debug\ServerProj.csproj.AssemblyReference.cache
+C:\Users\decla\OneDrive - Staffordshire University\CNA Semester 1\Week 6\ServerProj\ServerProj\obj\Debug\ServerProj.csproj.CoreCompileInputs.cache
+C:\Users\decla\OneDrive - Staffordshire University\CNA Semester 1\Week 6\ServerProj\ServerProj\obj\Debug\ServerProj.exe
+C:\Users\decla\OneDrive - Staffordshire University\CNA Semester 1\Week 6\ServerProj\ServerProj\obj\Debug\ServerProj.pdb
+C:\Users\decla\OneDrive - Staffordshire University\CNA Semester 1\Week 6\ServerProj\ServerProj\obj\Debug\ServerProj.csproj.CopyComplete
